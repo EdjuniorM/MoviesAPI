@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+## Começando 
 
-- testando 
+- Uma aplicação da API OMDB para filmes e series  
